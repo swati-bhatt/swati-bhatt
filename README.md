@@ -12,6 +12,8 @@
 <a href="https://linkedin.com/in/swatibhatt153" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/swatibhatt153" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bhattswati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhattswati" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/swati_bhatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="swati_bhatt" height="30" width="40" /></a>
+  <a href="https://twitter.com/bhatt_swatii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhatt_swatii" height="30" width="40" /></a>
+  <a href="https://instagram.com/bhatt_swatii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhatt_swatii" height="30" width="40" /></a>
 </p>
 
 <h4 align="left">Programmming Languages: </h4>
@@ -36,6 +38,7 @@
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
    </p>
    
   <h4 align="left">Backend Development: </h4>
