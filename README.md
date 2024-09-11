@@ -1,7 +1,7 @@
 <h1 align="center">Hi, Swati Bhatt here🌻</h1>
-<div align="center"> <img  alt="Banner" height=200 width=1100 src="https://github.com/swati-bhatt/swati-bhatt/blob/main/banner.png"> </div>
+<!-- <div align="center"> <img  alt="Banner" height=200 width=1100 src="https://github.com/swati-bhatt/swati-bhatt/blob/main/banner.png"> </div> -->
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
-<img align="right" alt="Coding" width="350" height="250" src="https://github.com/swati-bhatt/swati-bhatt/blob/main/giphy.gif">
+<img align="right" alt="Coding" width="350" height="250" src="https://github.com/swati-bhatt/swati-bhatt/blob/main/giphy2.gif">
 
 
 - 👨‍💻 Full-Stack Developer based in India.
